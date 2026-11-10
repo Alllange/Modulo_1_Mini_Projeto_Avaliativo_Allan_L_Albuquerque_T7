@@ -1,6 +1,6 @@
 Mini-Projeto - Análise de Dados com Python T7- Allan Lange Albuquerque 
 
-Link do GIT: 
+Link do GIT: https://github.com/Alllange/Modulo_1_Mini_Projeto_Avaliativo_Allan_L_Albuquerque_T7.git
 
 Sobre o projeto:
 Este projeto foi desenvolvido como atividade do curso de Análise de Dados com Python.
